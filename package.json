@@ -4,6 +4,6 @@
     "shorten": "netlify-shortener"
   },
   "devDependencies": {
-    "netlify-shortener": "2.1.0"
+    "netlify-shortener": "2.1.1"
   }
 }
